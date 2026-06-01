@@ -1,5 +1,5 @@
 # CodeVeda-Internship
-Internship tasks
+This Internship tasks
 Codveda Machine Learning Internship
 This repository contains machine learning tasks completed as part of the
 Machine Learning Internship at Codveda Technologies.
